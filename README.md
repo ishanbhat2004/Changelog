@@ -54,7 +54,8 @@ Run npm run dev in the CLI
 
 The application is now running at http://localhost:3000/
 
-💡 Usage
+
+## 💡 Usage
 Generate Changelogs
 Navigate to the /developer endpoint.
 Input the repository URL and starting point (commit or date).
